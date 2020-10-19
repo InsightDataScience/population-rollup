@@ -23,7 +23,7 @@ The federal Census produces a plethora of datasets on a variety of topics tabula
 * To submit your entry, use the link you received in your coding challenge invite email
 * Do NOT attach a file - we will not accept solutions with attached files
 * Do NOT send your solution over an email - We are unable to accept coding challenges that way
-* To see whether your code will pass at least one key test on our system (do this prior to submission), use this page: https://insight-cc-submission.com/test-my-repo-link and choose 'Consumer Complaints' in the challenge dropdown
+* To see whether your code will pass at least one key test on our system (do this prior to submission), use this page: https://insight-cc-submission.com/test-my-repo-link and choose 'Population Roll-up' in the challenge dropdown
 
 ### Creating private repositories
 To avoid plagiarism and wrongdoing, we request you submit a private repository of your code, and then invite us to collaborate prior to submitting your solution. Both GitHub and Bitbucket offer free private repositories at no extra cost.
